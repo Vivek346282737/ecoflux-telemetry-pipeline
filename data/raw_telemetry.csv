@@ -1,0 +1,13 @@
+facility_id,sensor_id,sensor_type,reading_timestamp,reading_value,unit_of_measure
+FAC01,SEN-WTR-01,Water Flow Meter,2026-09-10 08:00:00,120.5,L/min
+FAC01,SEN-WTR-01,Water Flow Meter,2026-09-10 08:00:00,120.5,L/min
+FAC01,SEN-WTR-01,Water Flow Meter,2026-09-10 08:15:00,124.0,L/min
+FAC01,SEN-WTR-01,Water Flow Meter,2026-09-10 08:30:00,,L/min
+FAC01,SEN-WTR-01,Water Flow Meter,2026-09-10 08:45:00,-99.0,L/min
+FAC01,SEN-WTR-01,Water Flow Meter,2026-09-10 09:00:00,210.0,L/min
+FAC02,SEN-CHM-02,Chemical Dosing,2026-09-10 08:00:00,15.2,ppm
+FAC02,SEN-CHM-02,Chemical Dosing,bad_timestamp,15.8,ppm
+FAC02,SEN-CHM-02,Chemical Dosing,2026-09-10 08:30:00,16.1,ppm
+FAC02,SEN-CHM-02,Chemical Dosing,2026-09-10 08:45:00,55.0,ppm
+FAC03,SEN-ENG-03,Energy Consumption,2026-09-10 08:00:00,340.2,kWh
+FAC03,SEN-ENG-03,Energy Consumption,2026-09-10 08:15:00,342.0,kWh
